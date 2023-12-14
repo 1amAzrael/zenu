@@ -167,7 +167,7 @@ td{
     background-image: url(a1.jpg);
     background-size: cover;
 }
-@media (max-width : 650px){
+@media (max-width : 500px){
     .sidebox{
         top: 110px;
         left: 50px;
