@@ -167,3 +167,20 @@ td{
     background-image: url(a1.jpg);
     background-size: cover;
 }
+@media (max-width : 450px){
+    .sidebox{
+        top: 110px;
+        left: 50px;
+    }
+    .pho {
+        top: 1200px;
+        left: -40px;
+    }
+    .intro {
+        top: 1600px;
+        left: 10px;
+    }
+    .nav {
+        left: -30px;
+    }
+}
